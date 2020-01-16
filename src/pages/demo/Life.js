@@ -6,7 +6,7 @@ export default class Lift extends React.Component {
     constructor(props) {
         super(props)
         this.state = {
-            count:0
+            count:1
         }
     }
     handleAdd =()=>{
