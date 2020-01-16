@@ -1,0 +1,12 @@
+.container .nav-left {
+  min-width: 180px;
+  height: calc(100vh);
+  background-color: #001529;
+}
+.container .main {
+  height: calc(100vh);
+}
+.container .content {
+  position: relative;
+  padding: 20px;
+}
